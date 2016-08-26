@@ -1,1 +1,2 @@
-Please contribute here.
+# Potaka
+"Potaka" is a programming language for the new learners. All the syntax of "Potaka" is written in Bengali. The syntaxes are organized in such a way so that people can read the code as a meaningful Bengali sentence. In other words, "Potaka" discloses a native Bengali sentence into programming logics. The main goal of "Potaka" is, giving the basic concept of programming and motivating the beginners to learn to program. "Potaka" comes with a simple game for the kids, that they can  solve by using programming logics, which surely enhance their interest towards programming. It also contains a code repository which is open source and anyone can contribute to it.
