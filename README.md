@@ -5,10 +5,10 @@ A sentence based easy bangla programming language for kids and beginners. Visit 
 
 |    English    	|      বাংলা     	|
 |:-------------:	|:--------------:	|
-|  [Introduction](docs/api_reference_en.md) 	|  [পতাকা পরিচিতি](docs/api_reference_en.md) 	|
+|  [Introduction](docs/introduction_en.md) 	|  [পতাকা পরিচিতি](docs/introduction.md) 	|
 |    [Variable](docs/variable_end.md)   	|    [ভ্যারিয়েবল](docs/variable.md)   	|
 |   [Operators](docs/operators_end.md)   	|     [অপারেটর](docs/operators.md)    	|
-|   [Condition](docs/condition_end.md)   	|     [কন্ডিশন](docs/condition..md)     	|
+|   [Condition](docs/condition_end.md)   	|     [কন্ডিশন](docs/condition.md)     	|
 |      [Loop](docs/loop_end.md)     	|       [লুপ](docs/loop.md)       	|
 |    [Function](docs/function_end.md)   	|      [ফাংশন](docs/function.md)     	|
 |    [Comment](docs/comment_en.md)    	|      [কমেন্ট](docs/comment.md)     	|
