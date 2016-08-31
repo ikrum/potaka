@@ -17,6 +17,7 @@ A sentence based easy bangla programming language for kids and beginners. Visit 
 
 ## Potaka In News
 ### English News
+  * [Global Voices](https://globalvoices.org/2016/08/30/theres-finally-a-programming-language-in-bengali-script-thanks-to-potaka/)
   * [Dhaka Tribune](http://www.dhakatribune.com/feature/tech/2016/08/20/bangla-programming-language-potaka-launched/)
   * [Hifi Public](http://hifipublic.com/2016/08/22/potaka-first-bangla-programming-language/)
   * [The Daily Observer](http://www.observerbd.com/details.php?id=30803)
