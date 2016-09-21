@@ -3,17 +3,17 @@ A sentence based easy bangla programming language for kids and beginners. Visit 
 
 ## Documentation
 
-|    English    	|      বাংলা     	|
+|    English    	|      বাংলা      	|
 |:-------------:	|:--------------:	|
-|  [Introduction](docs/introduction_en.md) 	|  [পতাকা পরিচিতি](docs/introduction.md) 	|
-|    [Variable](docs/variable_en.md)   	|    [ভ্যারিয়েবল](docs/variable.md)   	|
-|   [Operators](docs/operators_en.md)   	|     [অপারেটর](docs/operators.md)    	|
-|   [Condition](docs/condition_en.md)   	|     [কন্ডিশন](docs/condition.md)     	|
-|      [Loop](docs/loop_en.md)     	|       [লুপ](docs/loop.md)       	|
-|    [Function](docs/function_en.md)   	|      [ফাংশন](docs/function.md)     	|
-|    [Comment](docs/comment_en.md)    	|      [কমেন্ট](docs/comment.md)     	|
-| [Api Reference](docs/api_reference_en.md) 	| [এপিআই রেফারেন্স](docs/api_reference.md) 	|
-|      [FAQ](docs/faq_en.md)      	|    [প্রশ্নোত্তর](docs/faq.md)   	|
+| [Introduction](docs/introduction_en.md)  	| [পতাকা পরিচিতি](docs/introduction.md) 	  |
+| [Variable](docs/variable_en.md)          	| [ভ্যারিয়েবল](docs/variable.md)   	        |
+| [Operators](docs/operators_en.md)   	     | [অপারেটর](docs/operators.md)           	|
+| [Condition](docs/condition_en.md)        	| [কন্ডিশন](docs/condition.md)            	|
+| [Loop](docs/loop_en.md)     	             | [লুপ](docs/loop.md)       	             |
+| [Function](docs/function_en.md)          	| [ফাংশন](docs/function.md)              	|
+| [Comment](docs/comment_en.md)         	   | [কমেন্ট](docs/comment.md)     	          |
+| [Api Reference](docs/api_reference_en.md)| [এপিআই রেফারেন্স](docs/api_reference.md)|
+| [FAQ](docs/faq_en.md)                    	| [প্রশ্নোত্তর](docs/faq.md)   	               |
 
 ## Potaka In News
 ### English News
@@ -34,5 +34,5 @@ A sentence based easy bangla programming language for kids and beginners. Visit 
 
 ## Contact
 Email: [ikrum@gmail.com](#)
-Facebook: [Facebook.com/ikrum](http://facebook.com/ikrum)
+Facebook: [www.facebook.com/ikrum](http://facebook.com/ikrum)
 Phone: +880 1764-722369
