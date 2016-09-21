@@ -35,4 +35,4 @@ A sentence based easy bangla programming language for kids and beginners. Visit 
 ## Contact
 Email: [ikrum@gmail.com](#)
 Facebook: [Facebook.com/ikrum](http://facebook.com/ikrum)
-Phone: 008801764722369
+Phone: +880 1764-722369
