@@ -1,5 +1,5 @@
 # Potaka / পতাকা()
-A sentence based easy bangla programming language for kids and beginners. Visit http://potaka.io to have a look
+A sentence based easy "Bangla Programming Language" for kids and beginners. Visit http://potaka.io to have a look.
 
 ## Documentation
 
