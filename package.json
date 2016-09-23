@@ -1,0 +1,28 @@
+{
+  "name": "potaka",
+  "version": "1.0.0",
+  "description": "A sentence based easy bangla programming language for kids and beginners",
+  "main": "lib/parser.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikrum/potaka.git"
+  },
+  "keywords": [
+    "potaka",
+    "bangla",
+    "programming"
+  ],
+  "author": "Ikrum Hossain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikrum/potaka/issues"
+  },
+  "homepage": "https://github.com/ikrum/potaka#readme"
+}
